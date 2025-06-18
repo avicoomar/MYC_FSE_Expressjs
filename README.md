@@ -1,6 +1,6 @@
 # MYC_FSE_Expressjs
 
-![Screenshot from 2025-06-18 22-40-15](https://github.com/user-attachments/assets/aa9b10e6-ea27-4547-a0b5-417557d6104d)
+![Screenshot from 2025-06-18 22-40-15](https://github.com/user-attachments/assets/e8f817ba-a7d9-49c6-b1d8-b44b08fb5eb2)
 
 Documentation yet to be written...
 
